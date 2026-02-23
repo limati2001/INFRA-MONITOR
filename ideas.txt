@@ -1,0 +1,8 @@
+Stack provável
+
+FastAPI para o backend/API
+PostgreSQL ou SQLite para histórico
+Celery ou APScheduler para as checagens periódicas
+HTMx ou Chart.js no frontend (sem precisar aprender React agora)
+Docker para empacotar
+Deploy no Railway ou Render (gratuito)
