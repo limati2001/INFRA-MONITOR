@@ -31,7 +31,7 @@ git clone https://github.com/limati2001/Sistema-de-Monitoramento-de-Infraestrutu
 cd Sistema-de-Monitoramento-de-Infraestrutura-com-Dashboard-Web
 
 # Crie e ative o ambiente virtual
-python3 -m venv venv      #ATENÇÃO: para Windows, use o comando ->python3 -m venv venv
+python3 -m venv venv      #ATENÇÃO: para sistemas Windows, use o comando "python -m venv venv"
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
